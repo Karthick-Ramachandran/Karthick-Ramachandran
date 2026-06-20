@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Karthick-Ramachandran, Full Stack Developer with experience on React, React Native, Vue, Flutter, Laravel and NodeJs.
-- 👀 I’m interested in latest web technologies ...
-- 🌱 I’m currently learning a bit of DevOps ...
-- 💞️ I’m looking to collaborate on open source projects in JavaScript and laravel.
+- 👋 Hi, I’m @Karthick-Ramachandran, a Full Stack Developer with 8 years of experience building web and mobile apps
 - 📫 How to reach me - email: karthiram165@gmail.com
 
 <!---
